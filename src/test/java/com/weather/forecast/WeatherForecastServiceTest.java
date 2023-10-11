@@ -1,3 +1,5 @@
+package com.weather.forecast;
+
 import com.weather.forecast.entity.WeatherForecast;
 import com.weather.forecast.models.WeatherForecastData;
 import com.weather.forecast.repository.WeatherForecastRepository;
